@@ -55,8 +55,9 @@ function checkShipCrash() {
         }
     }if (!ship.alive){
         stop();
-        let sound1 = new Audio();
-        sound1.src = 'neck.wav';
-        sound1.play();
+        // let deathSound = new Audio();
+        // deathSound.src = 'neck.wav';
+        // deathSound.load();
+        // deathSound.play();
     }
 }
