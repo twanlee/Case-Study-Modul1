@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circle</title>
+    <style>
+        body{
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+<body>
+<center>
+    <canvas id="myCanvas" height="600" width="700" style="background-color: black"></canvas>
+</center>
+<audio>
+    <source src="Rain.wav" type="audio/mp3">
+</audio>
+<center>
+    <table border="1">
+        <tr>
+            <td align="center"><input type="button" value="Play Game" onclick="gameReady()"></td>
+            <td align="center"><input type="button" value="Restart" onclick="restart()"></td>
+            <td align="center"><input type="button" value="Instruction" onclick="instruction()"></td>
+        </tr>
+        <tr>
+            <td height="50" width="400" colspan="3" align="center"><p id="time"></p>Status</td>
+        </tr>
+    </table>
+</center>
+
+
+<script src="Ship.js"></script>
+<script src="Ammo.js"></script>
+<script src="Ball.js"></script>
+<script src="Process.js"></script>
+<script src="Init.js"></script>
+<script src="Collision.js"></script>
+</body>
+</html>
