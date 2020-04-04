@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2bfd3dd-0676-4e2b-ba88-aa57cb6add20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collision.js" beforeDir="false" afterPath="$PROJECT_DIR$/Collision.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ammo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ammo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Process.js" beforeDir="false" afterPath="$PROJECT_DIR$/Process.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/twanlee/Case-Study-Modul1.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1a0y84Dg0nQbGNxbFsf9OaRFRiR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,6 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,17 +51,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585886642518</updated>
-      <workItem from="1585886644551" duration="1929000" />
+      <workItem from="1585886644551" duration="6721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="661" y="284" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585886850984">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="661" y="284" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1585886850984" />
+    <state x="344" y="56" key="SettingsEditor" timestamp="1585902534979">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1585902534979" />
   </component>
 </project>

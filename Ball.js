@@ -5,7 +5,7 @@ let Ball = function () {
     this.y= 0;
     this.alive = true;
     this.radius = Math.floor(Math.random() * 40)+10;
-    this.spdY = Math.floor(Math.random() * 2)+6;
+    this.spdY = Math.floor(Math.random() * 2)+4;
     this.getRandomHex = function (){
         return Math.floor(Math.random()*255);
     }

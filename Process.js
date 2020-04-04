@@ -40,9 +40,5 @@ function keyDown(evt) {
         case 39:
             ship.x += ship.speed;
             break;
-        // case 32:
-        //     clearInterval(myInter);
-        //     start();
-        //     break;
     }
 }

@@ -16,9 +16,6 @@ let Bullet = function () {
             this.alive = false;
         }
     }
-    // this.move = function () {
-    //     this.y -= 2;
-    // }
 }
 function createBullet() {
     let bullets = new Bullet();
@@ -33,10 +30,8 @@ function createBullet() {
 }
 function bulletUpdate() {
     for (let i = 0; i < ammo.length; i++) {
-       // ammo[i].move();
         ammo[i].render();
         ammo[i].update();
-        // ammo[i].checkCollision();
     }
 }
 
