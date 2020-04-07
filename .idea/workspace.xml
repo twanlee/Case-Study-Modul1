@@ -4,8 +4,6 @@
     <list default="true" id="f2bfd3dd-0676-4e2b-ba88-aa57cb6add20" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ammo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ammo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ball.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Process.js" beforeDir="false" afterPath="$PROJECT_DIR$/Process.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585886642518</updated>
       <workItem from="1585886644551" duration="6721000" />
+      <workItem from="1585987435654" duration="1936000" />
+      <workItem from="1586232482954" duration="3835000" />
     </task>
     <servers />
   </component>
@@ -63,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

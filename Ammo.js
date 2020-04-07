@@ -36,7 +36,6 @@ function bulletUpdate() {
 }
 
 function shoot() {
-    // clear();
     createBullet();
 
 }
